@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Eva 👋
 
-<!--
-**evaponton/Evaponton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tras una trayectoria profesional muy versátil en sectores tan diferentes como aviación, marketing y banca, he descubierto una nueva pasión: el mundo del Data Analytics y Storytelling🌍📉
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
+- 🎓Graduada en Comercio y Marketing por la Universidad de Oviedo.
+- 🌱Data Analyst en formación Bootcamp con factoría F5 💻.
+- ✨Apasionada por los retos, me encanta aprender constantemente en cada ámbito, gran nivel de adaptabilidad.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Herramientas que utilizo
+- 📊Excel y Google Sheets
+- 🐍Python, SQL en formación
+- 💻Git & GitHub
+- 🌱Aprendiendo HTML, CSS y JS
+
+## 📫 Contacto
+- 👩‍💻LinkedIn: página en proceso 🛠
+- 📬Email: evaponton@hotmail.es
+
+
+
+*Transformemos los datos en historias interesantes con valor*
+
