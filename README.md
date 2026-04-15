@@ -15,8 +15,8 @@ Tras una trayectoria profesional muy versátil en sectores tan diferentes como a
      🌱Aprendiendo HTML, CSS y JS
 
 ## 📫 Contacto
-    👩‍💻LinkedIn: página en proceso 🛠
-    📬Email: evaponton@hotmail.es
+    👩‍💻LinkedIn: www.linkedin.com/in/eva-pontón-gonzález
+    📬Email: evapontong@gmail.com
 
 
 
